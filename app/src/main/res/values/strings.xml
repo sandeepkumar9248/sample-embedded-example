@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample VC</string>
+    <string name="file_provider_authority">com.example.sampleembededvc.provider</string>
+    <string name="wevUrl">https://app.invc.vc/</string>
+</resources>
